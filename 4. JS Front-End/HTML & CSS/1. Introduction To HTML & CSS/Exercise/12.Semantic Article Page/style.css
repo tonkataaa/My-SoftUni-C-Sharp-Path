@@ -1,0 +1,31 @@
+body{
+    background-color: #e4e978;
+    width: 700px;
+}
+
+.main{
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    background-color: #f2f4c0;
+    padding: 5px 15px;
+}
+
+.second{
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    background-color: #f2f4c0;
+    padding: 5px 15px;
+    color: #5c6e91;
+}
+
+.third{
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    background-color: #f2f4c0;
+    padding: 5px 15px;
+    color: #5c6e91;
+}
+
+#comments{
+    font-size: 26px;
+}
