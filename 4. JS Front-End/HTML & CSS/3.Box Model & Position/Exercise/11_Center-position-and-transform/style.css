@@ -1,0 +1,60 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(238, 238, 238);
+}
+
+h1,h2,h3{
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+    font-weight: bold;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    overflow: hidden;
+    width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 20px 2px rgb(110, 110, 110);
+}
+
+.image-box{
+    padding: 0;
+}
+
+.content{
+   padding: 20px;
+}
+
+p{
+    padding-bottom: 40px;
+    width: 95%;
+}
+
+a{
+    text-align: center;
+    width: 80px;
+    border-radius: 4px;
+    padding: 7px;
+    background-color: rgb(0, 153,0);
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+

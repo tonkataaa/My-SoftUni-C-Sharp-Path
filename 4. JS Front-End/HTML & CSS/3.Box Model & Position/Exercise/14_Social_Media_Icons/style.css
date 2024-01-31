@@ -1,0 +1,44 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css);
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+*{
+    padding: 0;
+}
+
+ul{
+    display: inline-block;
+}
+
+li{
+   margin: 5px;
+   display: inline-block;
+}
+
+i{
+    font-size: 24px;
+    color: #303030;
+}
+
+a{
+    border-radius: 50%;
+    background-color: #e2e1e1;
+    padding: 20px 15px 15px 15px;
+    text-decoration: none;
+}
+
+.blue:hover{
+    color: blue;
+}
+
+.blue_light:hover{
+    color: rgb(92, 188, 247);
+}
+
+.red:hover{
+    color: rgb(255, 64, 64);
+}
