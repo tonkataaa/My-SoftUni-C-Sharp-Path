@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    margin-top: 28em;
+    align-items: center;
+}
+
+.card{
+    padding: 2em;
+    min-width: 30%;
+    box-shadow:  0 0 1em 0.5em rgb(0 ,0 ,0, 0.2);
+    border-radius: 0.4em;
+    background-color: rgb(255, 255, 255);
+}
+
