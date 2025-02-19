@@ -1,0 +1,16 @@
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\bin\Debug\net8.0\BookShop.Data.deps.json
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\bin\Debug\net8.0\BookShop.Data.dll
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\bin\Debug\net8.0\BookShop.Data.pdb
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\bin\Debug\net8.0\BookShop.Models.dll
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\bin\Debug\net8.0\BookShop.Models.pdb
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.csproj.AssemblyReference.cache
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.AssemblyInfoInputs.cache
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.AssemblyInfo.cs
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.sourcelink.json
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.csproj.CopyComplete
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.dll
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\refint\BookShop.Data.dll
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\BookShop.Data.pdb
+D:\IT\SoftUni\SoftUni C#\05.DB\Еntity Framework Core\6.Advanced Querying\BookShop.Data\obj\Debug\net8.0\ref\BookShop.Data.dll
