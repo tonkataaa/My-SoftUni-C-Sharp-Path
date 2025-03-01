@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <firstName>Almire</firstName>
+    <lastName>Ainslee</lastName>
+    <products>
+      <Product>
+        <name>H-Rosacea Formula</name>
+        <price>99.74</price>
+      </Product>
+    </products>
+  </User>
+  <User>
+    <firstName>Almire</firstName>
+    <lastName>Ainslee</lastName>
+    <products>
+      <Product>
+        <name>Metoprolol Tartrate</name>
+        <price>1405.74</price>
+      </Product>
+    </products>
+  </User>
+  <User>
+    <firstName>Karena</firstName>
+    <lastName>Aldersea</lastName>
+    <products>
+      <Product>
+        <name>Labetalol Hydrochloride</name>
+        <price>1345.11</price>
+      </Product>
+    </products>
+  </User>
+  <User>
+    <firstName>Karena</firstName>
+    <lastName>Aldersea</lastName>
+    <products>
+      <Product>
+        <name>ziprasidone hydrochloride</name>
+        <price>628.66</price>
+      </Product>
+    </products>
+  </User>
+  <User>
+    <firstName>Arden</firstName>
+    <lastName>Arboin</lastName>
+    <products>
+      <Product>
+        <name>Childrens Allegra Allergy</name>
+        <price>650.97</price>
+      </Product>
+    </products>
+  </User>
+</Users>
