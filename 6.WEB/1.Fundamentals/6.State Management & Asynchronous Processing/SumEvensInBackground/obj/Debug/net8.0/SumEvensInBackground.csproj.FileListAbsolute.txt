@@ -1,0 +1,14 @@
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\bin\Debug\net8.0\SumEvensInBackground.exe
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\bin\Debug\net8.0\SumEvensInBackground.deps.json
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\bin\Debug\net8.0\SumEvensInBackground.runtimeconfig.json
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\bin\Debug\net8.0\SumEvensInBackground.dll
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\bin\Debug\net8.0\SumEvensInBackground.pdb
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.AssemblyInfoInputs.cache
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.AssemblyInfo.cs
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.csproj.CoreCompileInputs.cache
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.dll
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\refint\SumEvensInBackground.dll
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.pdb
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\SumEvensInBackground.genruntimeconfig.cache
+C:\Users\shika\source\repos\Asynchronous Processing\SumEvensInBackground\obj\Debug\net8.0\ref\SumEvensInBackground.dll

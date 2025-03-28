@@ -1,0 +1,14 @@
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\bin\Debug\net8.0\Chronometer.exe
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\bin\Debug\net8.0\Chronometer.deps.json
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\bin\Debug\net8.0\Chronometer.runtimeconfig.json
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\bin\Debug\net8.0\Chronometer.dll
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\bin\Debug\net8.0\Chronometer.pdb
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.AssemblyInfoInputs.cache
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.AssemblyInfo.cs
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.csproj.CoreCompileInputs.cache
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.dll
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\refint\Chronometer.dll
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.pdb
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\Chronometer.genruntimeconfig.cache
+C:\Users\shika\source\repos\Asynchronous Processing\Chronometer\obj\Debug\net8.0\ref\Chronometer.dll
